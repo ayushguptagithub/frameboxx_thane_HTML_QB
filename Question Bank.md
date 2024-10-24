@@ -2,7 +2,7 @@
 
 ---
 
-### **Sample 20 Questions with Answers (5 Marks Each)**
+
 
 ---
 
